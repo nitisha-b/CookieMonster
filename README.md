@@ -4,7 +4,7 @@ Used Unity to make a game that allows the user to move a character around a hous
 
 ## App Walkthrough 
 
-![Game Demo](http://g.recordit.co/eqrinYjZto.gif)
+<img src="cookie.gif" width="500" alt="demo of the game">
 
 ## Full App 
 
